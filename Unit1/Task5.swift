@@ -1,0 +1,6 @@
+let a = 20
+let b = 15
+
+let largest = a > b ? a : b
+
+print("Largest = (largest)")
